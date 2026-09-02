@@ -38,6 +38,7 @@ Target pengguna : Umum
 
 
 Mockup kasar :
-Skema database :
+Skema database : 
+![Skema ERD](https://github.com/farismiban123/la-peace/blob/75648daf43c37f1d93343f83f02c1263c0750bfb/erd.drawio%20(1).png)
 
  
